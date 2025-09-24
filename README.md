@@ -2,7 +2,7 @@
 
 Aplicação simples em Python que se conecta à API do Ollama e envia prompts ao modelo `phi3:mini`. O usuário digita uma mensagem, a aplicação envia para a IA e exibe a resposta no terminal.
 
-**Este projeto foi desenvolvido por Hailton Neto e Vinicius Macedo.**
+**Este projeto foi desenvolvido por Emanuel Henry, Hailton Neto e Vinicius Macedo.**
 
 ---
 
@@ -78,3 +78,4 @@ Digite seu prompt (ou 'sair' para encerrar): Qual a capital da França?
 💬 Resposta da IA:
 A capital da França é Paris.
 ```
+
